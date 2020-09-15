@@ -4,7 +4,7 @@ body {
     background-image: url('https://i.imgur.com/cVBm1zV.jpg');
     height:100%;
     width:100%;
-  font-family:Sora;
+    font-family:Sora;
 }
 
 .subtitle {
@@ -91,7 +91,7 @@ p {
     font-style: italic;
     background-color:rgba(255,190,255,0.6);
     border-top-left-radius:20px;
-  border-top-right-radius:20px;
-  bottom:0;
+    border-top-right-radius:20px;
+    bottom:0;
 }
 
