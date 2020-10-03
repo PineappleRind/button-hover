@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Allan:wght@400;700&family=Sora:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@433&family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+</style>
+
 
 body {
     background-image: url('https://i.imgur.com/cVBm1zV.jpg');
@@ -25,7 +27,7 @@ body {
     width:15rem;
     border:5px solid #9198e5;
     border-radius: 10px;
-    font-family:Allan;
+    font-family:Jost;
 }
 
 .btn:active {
