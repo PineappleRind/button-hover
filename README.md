@@ -1,5 +1,5 @@
 # button-hover
 ### This is not really a project. 
- - See on [codepen](https://codepen.io/pineapplerind/pen/xxwNNzy)
-
-Update: I have a new [version with pseudoelements](https://codepen.io/pineapplerind/pen/VwavxXa)
+The pseudoelements branch is for the version using pseudoelements.
+On master, the version with the transform property.
+ - See on [codepen](https://codepen.io/pineapplerind/pen/VwavxXa)
