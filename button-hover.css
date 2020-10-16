@@ -6,7 +6,7 @@ body {
     background-image: url('https://i.imgur.com/cVBm1zV.jpg');
     height:100%;
     width:100%;
-    font-family:Sora;
+    font-family:Sora, sans-serif;
 }
 
 .subtitle {
@@ -27,7 +27,7 @@ body {
     width:15rem;
     border:5px solid #9198e5;
     border-radius: 10px;
-    font-family:Jost;
+    font-family:Jost, sans-serif;
 }
 
 .btn:active {
